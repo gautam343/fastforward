@@ -1,1 +1,1 @@
-git demo of fast forward
+git demo of fast forward (should be visible now)
